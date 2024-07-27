@@ -26,12 +26,7 @@ body::before {
 }
 
 a {
-  color: #12d640;
-}
-
-a:hover {
-  color: #12d640;
-  text-decoration: none;
+  color: #47aeff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -79,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header h2 span {
   /* color: #ffc107; */
-  border-bottom: 2px solid #1c7d32;
+  border-bottom: 2px solid #9b0fb4;
   padding-bottom: 6px;
 }
 
@@ -180,7 +175,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #00ffee;
+  color: #00ddff;
   text-decoration: none;
 }
 
